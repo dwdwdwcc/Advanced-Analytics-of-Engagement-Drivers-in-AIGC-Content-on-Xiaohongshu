@@ -1,5 +1,5 @@
 # README: Predicting Engagement Drivers for AIGC Content on Xiaohongshu
-## ACC102 Track 1 - Advanced Analytics Project
+## ACC102 Track 2 - Advanced Analytics Project
 
 ---
 
